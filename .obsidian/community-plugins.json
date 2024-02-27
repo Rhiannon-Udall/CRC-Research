@@ -1,5 +1,6 @@
 [
   "obsidian-annotator",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-link-converter"
 ]

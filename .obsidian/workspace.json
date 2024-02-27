@@ -18,6 +18,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ef54672673721fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ContractAnalysis/FullContracts/MountSinaiContract.pdf"
+              }
+            }
+          },
+          {
+            "id": "c1930bc824fd3efa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ContractAnalysis/FullContracts/MountSinaiContract.pdf"
+              }
+            }
           }
         ]
       }
@@ -141,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
