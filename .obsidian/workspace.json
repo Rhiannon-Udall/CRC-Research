@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "237e64c64257f139",
+        "id": "e0308c56ac69e92f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1688712956a279",
+            "id": "f0e3c031d74fe6a3",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Contracts/ParentalLeaveAndPregnancyAccommodations/MountSinaiPostDoc.md"
+                "file": "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Mount Sinai Post Doc.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contracts/ParentalLeaveAndPregnancyAccommodations/MountSinaiPostDoc.md",
+                "file": "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Mount Sinai Post Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contracts/ParentalLeaveAndPregnancyAccommodations/MountSinaiPostDoc.md",
+                "file": "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Mount Sinai Post Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contracts/ParentalLeaveAndPregnancyAccommodations/MountSinaiPostDoc.md"
+                "file": "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Mount Sinai Post Doc.md"
               }
             }
           },
@@ -139,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,15 +157,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1688712956a279",
+  "active": "f0e3c031d74fe6a3",
   "lastOpenFiles": [
+    "ContractAnalysis/FullContracts/MountSinaiContract.pdf",
+    "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Mount Sinai Post Doc.md",
     "SupplementaryMaterials/FMLA.pdf",
+    "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations/Summary.md",
+    "ContractAnalysis/FullContracts",
+    "Contracts/Untitled.md",
     "Contracts/ParentalLeaveAndPregnancyAccommodations/MountSinaiPostDoc.md",
-    "Contracts/ParentalLeaveAndPregnancyAccommodations/Summary.md",
+    "Contracts/MountSinaiContract.pdf.crdownload",
     "Contracts/FullContracts/MountSinaiPostDocContract.pdf",
     "SupplementaryMaterials/FMLA.md",
-    "Contracts/ParentalLeaveAndPregnancyAccommodations",
-    "Contracts/Childcare",
+    "ContractAnalysis/ParentalLeaveAndPregnancyAccommodations",
+    "ContractAnalysis/Childcare",
     "Contracts/FullContracts/12-17-23-SPOC-UAW-_-Mount-Sinai-Tentative-Agreement-FINAL-PDF.pdf",
     "Contracts/MountSinaiPostDocOrig.md",
     "Contracts/Brown Grad.md",
@@ -173,8 +179,6 @@
     "Contracts/UC Grad.md",
     "Contracts/Columbia Post-Doc.md",
     "Contracts/Columbia Grad.md",
-    "DataSheets/parental_leave.csv",
-    "DataSheets",
     "Welcome.md",
     "create a link.md",
     "Contracts/NYU Grad.md",
@@ -184,7 +188,6 @@
     "Contracts/UC Post-Doc.md",
     "Contracts/USC Grad.md",
     "Contracts/UW Grad.md",
-    "Contracts/UW Post-Doc.md",
-    "CaltechContext"
+    "Contracts/UW Post-Doc.md"
   ]
 }
