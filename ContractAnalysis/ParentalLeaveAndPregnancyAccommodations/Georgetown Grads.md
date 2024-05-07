@@ -1,0 +1,3 @@
+XXIV.3.
+
+Parental leave for birth or adoption of child under 5, with advance notice of at least 3 months. May also submit medical leave of absence in conjunction with this. Paid leave for up to 8 weeks within 4 months of birth or adoption, may also get one semester of unpaid leave with funding deferred. The student remains eligible for healthcare and tuition remission. The student will be reappointed to the same position after returning from leave.
